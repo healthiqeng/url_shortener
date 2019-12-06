@@ -9,7 +9,7 @@ gem 'rails', '~> 5.0.6'             # Ruby on rails
 gem 'custom_configuration'          # allows config.x.whatever
 gem 'multi_json', '~> 1.2'
 gem 'pg'                            # postgresql database
-gem 'puma', '~> 3.0'                # Use puma as the app web server
+gem 'puma', '~> 3.12'               # Use puma as the app web server
 gem 'rack-attack'                   # Security, performance
 
 gem 'jquery-rails'                  # Build JSON APIs
